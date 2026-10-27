@@ -1,5 +1,7 @@
 # Real-Time Smart Traffic Controller
 
+![Smart Traffic Controller dashboard](dashboard-preview.jpg)
+
 Professional React/Vite dashboard prototype for a ROS2 smart traffic light control project.
 
 ## Features
